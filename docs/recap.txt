@@ -1,0 +1,1 @@
+1) Since the Home component is exported as the default export in index.tsx, it will be the component rendered by Next.js when the root URL is accessed. Therefore, the <h1>Hi</h1> element inside the Home component will be rendered and displayed on the screen as part of the overall application layout defined in _app.tsx.
